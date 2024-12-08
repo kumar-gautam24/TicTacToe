@@ -51,4 +51,9 @@ if (isMaximizing) {
         return bestScore;
     }
 }
+![Screenshot_2024-06-14-13-58-26-12_027a076a3654661bf7a847856e46c730](https://github.com/kumar-gautam24/TicTacToe/assets/80573770/64d9d699-db14-4562-8595-d7bcfb7cc8a8)    ![Screenshot_2024-06-14-13-58-33-41_027a076a3654661bf7a847856e46c730](https://github.com/kumar-gautam24/TicTacToe/assets/80573770/bcc88c36-8ed5-4890-b764-b8189af7a3ab)    ![Screenshot_2024-06-14-13-57-04-61_027a076a3654661bf7a847856e46c730](https://github.com/kumar-gautam24/TicTacToe/assets/80573770/64392c4e-6f00-4e6d-929d-4863e2324f06)
+
+![Screenshot_2024-06-14-13-57-47-85_027a076a3654661bf7a847856e46c730](https://github.com/kumar-gautam24/TicTacToe/assets/80573770/f2f6a6bc-c155-47ad-9ba8-617a60bc611b)   ![Screenshot_2024-06-14-13-58-02-94_027a076a3654661bf7a847856e46c730](https://github.com/kumar-gautam24/TicTacToe/assets/80573770/24485715-fe34-4225-a883-cbe156e3af97)
+
+
 
